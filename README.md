@@ -11,5 +11,5 @@ created by industrial training STUDENTS at pantami digital age hub
 - USMAN SHEHU
 - MUSTAPHA BELLO
 - MUHAMMAD
-- KHADEJA HAYATU
+- KHADIJA HAYATU(https://github.com/Khadijahayatu).
 - [USMAN IBRAHIM KUNJI](https://github.com/Ibrahim-kunji)
